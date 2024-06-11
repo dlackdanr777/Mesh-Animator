@@ -10,6 +10,6 @@
 </br>
 
 ![베이크 애니메이터 사용](https://github.com/dlackdanr777/Mesh-Animator/assets/64966089/4b16e4ff-afe5-440f-9071-88295b60c63b)
-MeshAnimator를 통해 메시를 굽고, 해당 메시로 애니메이션 실행 + GPU Instancing 설정(FPS 642)
+MeshAnimator를 통해 메시를 굽고, 메시 애니메이션 실행 + GPU Instancing 설정(FPS 642)
 
 
